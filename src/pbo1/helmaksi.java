@@ -33,5 +33,8 @@ public class helmaksi {
         ilmi.merk="INK";
         ilmi.kaca="Gelap";
         
+        aji.Pakaihelm();
+        angga. Pakaihelm();
+        ilmi. Pakaihelm();
     }
 }
