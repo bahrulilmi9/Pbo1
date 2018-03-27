@@ -11,6 +11,8 @@ package pbo1;
  */
 public class helmaksi {
     public static void main(String[] args) {
-        
+        Helm aji = new Helm();
+        Helm angga = new Helm();
+        Helm ilmi = new Helm(); 
     }
 }
