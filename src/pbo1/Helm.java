@@ -10,5 +10,17 @@ package pbo1;
  * @author ACER ASPIRE E5-475
  */
 public class Helm {
+   String jenis;
+    String warna;
+    String ukuran;
+    String merk;
+    String kaca;
     
+    void Pakaihelm(){
+        System.out.println("Jenis :"+jenis);
+        System.out.println("Warna :"+warna);
+        System.out.println("Ukuran :"+ukuran);
+        System.out.println("Merk :"+merk);
+        System.out.println("Kaca :"+kaca+"\n");
+    } 
 }
